@@ -2,6 +2,6 @@
 ## Проект выполнила: Филиппова Оксана
 
 ### Технологии
--html
--css
--javascript
+- html
+- css
+- javascript
